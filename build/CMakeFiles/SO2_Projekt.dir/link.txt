@@ -1,0 +1,1 @@
+/usr/bin/clang++ -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/SO2_Projekt.dir/main.cpp.o CMakeFiles/SO2_Projekt.dir/DiningPhilosophersProblem.cpp.o -o SO2_Projekt

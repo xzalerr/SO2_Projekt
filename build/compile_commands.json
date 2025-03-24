@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/rafalzalecki/CLionProjects/SO2_Projekt/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/SO2_Projekt.dir/main.cpp.o -c /Users/rafalzalecki/CLionProjects/SO2_Projekt/main.cpp",
+  "file": "/Users/rafalzalecki/CLionProjects/SO2_Projekt/main.cpp",
+  "output": "CMakeFiles/SO2_Projekt.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/rafalzalecki/CLionProjects/SO2_Projekt/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/SO2_Projekt.dir/DiningPhilosophersProblem.cpp.o -c /Users/rafalzalecki/CLionProjects/SO2_Projekt/DiningPhilosophersProblem.cpp",
+  "file": "/Users/rafalzalecki/CLionProjects/SO2_Projekt/DiningPhilosophersProblem.cpp",
+  "output": "CMakeFiles/SO2_Projekt.dir/DiningPhilosophersProblem.cpp.o"
+}
+]
