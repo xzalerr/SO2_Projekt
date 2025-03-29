@@ -8,7 +8,7 @@ DiningPhilosophersProblem.o: DiningPhilosophersProblem.cpp
 	g++ -std=c++20 -c DiningPhilosophersProblem.cpp
 
 run:
-	./output $(PARAM)
+	./output $(N)
 
 clean:
 	rm *.o output
